@@ -1,0 +1,20 @@
+##################### Message Logs ##################### 
+Yukio from Yukio's server: $kick
+BOT TEST from Yukio's server: 
+Yukio from Yukio's server: $kick
+BOT TEST from Yukio's server: 
+Yukio from Yukio's server: $kick
+Yukio from Yukio's server: $kick
+Message from bot
+Yukio from Yukio's server: ddfsfdfdddsq
+Yukio from Yukio's server: f
+Yukio from Yukio's server: ffdsq
+Yukio from Yukio's server: dddd
+Yukio from Yukio's server: d
+Yukio from Yukio's server: $help
+Message from bot
+Yukio from Yukio's server: d
+Yukio from Yukio's server: d
+Yukio from Yukio's server: $kick
+Message from bot
+Yukio from Yukio's server: $clear 100

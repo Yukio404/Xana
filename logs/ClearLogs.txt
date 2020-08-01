@@ -1,0 +1,13 @@
+##################### Clear Logs ##################### 
+Yukio want to clear but didn't provided a number of messages to delete
+Yukio clear [object Map] messages
+Yukio clear 1 messages
+Yukio want to clear but didn't provided a number of messages to delete
+22/tcp SSH want to clear but didn't provided a number of messages to delete
+22/tcp SSH want to clear but didn't provided a number of messages to delete
+22/tcp SSH want to clear but failed
+22/tcp SSH want to clear but failed
+Yukio clear 20 messages
+Yukio clear 100 messages
+Yukio clear 100 messages
+Yukio clear 100 messages

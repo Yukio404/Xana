@@ -1,0 +1,15 @@
+##################### Kick Logs ##################### 
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+22/tcp SSH want to kick but failed
+Yukio want to kick 22/tcp SSH#4062 but no reason provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided
+Yukio want to kick but username not provided

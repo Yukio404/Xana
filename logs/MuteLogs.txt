@@ -1,2 +1,1 @@
 ##################### Mute Logs ##################### 
-22/tcp SSH want to mute but failed

@@ -23,7 +23,7 @@ module.exports = async (msg) => {
 
         } else {
 
-
+            /*
             const args = msg.content.slice(prefix.length).trim().split(' ')
             var tomute = msg.guild.member(msg.mentions.users.first() || msg.guild.members.cache.get(args[1]))
 
@@ -104,7 +104,7 @@ module.exports = async (msg) => {
                 }
             })
 
-        }
+        } */
 
     }
 }

@@ -11,7 +11,7 @@ module.exports = (msg) => {
             .addField('Kick', `${prefix}kick @user reason`)
             .addField('Ban', `${prefix}ban @user reason`)
             .addField('Unban', `${prefix}unban @user`)
-            .addField('Mute', `${prefix}mute @user time(s, m, or h)`)
+            .addField('Mute', `~~${prefix}mute @user time(s, m, or h)~~ ne marche pas encore`)
             .addField('Clear', `${prefix}clear numberOfMessage`)
             .setTimestamp()
 

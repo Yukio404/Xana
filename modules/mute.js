@@ -22,7 +22,9 @@ module.exports = async (msg) => {
             })
 
         } else {
-
+            
+            msg.channel.send('Ne marche pas encore')
+            
             /*
             const args = msg.content.slice(prefix.length).trim().split(' ')
             var tomute = msg.guild.member(msg.mentions.users.first() || msg.guild.members.cache.get(args[1]))
